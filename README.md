@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yiyabo" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yiyabo&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
