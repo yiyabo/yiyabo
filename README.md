@@ -15,9 +15,7 @@
 
 </div>
 
----
-
-## About Me
+<br/>
 
 - 🎓 Student at **The Chinese University of Hong Kong**
 - 🤖 Building **AI Agents** and **LLM-powered applications**
@@ -25,9 +23,7 @@
 - 🔭 Currently working on **GAgent** (AI task orchestration) and **Zotero Reading Assistant**
 - 🌱 Always learning: Agent systems, LLM tooling, computational biology
 
----
-
-## Featured Projects
+<br/>
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -35,26 +31,16 @@
 | **[zotero-reading-assistant](https://github.com/yiyabo/zotero-reading-assistant)** | AI-powered reading assistant sidebar for Zotero | TypeScript |
 | **[Gram-_Database](https://github.com/yiyabo/Gram-_Database)** | Gram-negative bacteria database (under development) | Jupyter Notebook |
 
----
-
-## Tech Stack
+<br/>
 
 <div align="center">
-
-**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**AI / LLM**
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,33 +48,23 @@
 
 </div>
 
----
-
-## 📊 Stats & Activity
+<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yiyabo" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=yiyabo&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yiyabo&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
-## Connect
+<br/>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-yiyabo-181717?style=for-the-badge&logo=github)](https://github.com/yiyabo)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wxxpublic@outlook.com)
 
-</div>
-
----
-
-<div align="center">
-  <i>⭐ Feel free to explore my repos and reach out if you'd like to collaborate!</i>
 </div>
