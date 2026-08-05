@@ -85,10 +85,10 @@
 </p>
 -->
 
-<!-- Activity Graph -->
+<!-- GitHub Contribution Graph (official, always works) -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiyabo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <a href="https://github.com/yiyabo">
+    <img src="https://ghchart.rshah.org/7C3AED/yiyabo" alt="Contribution Graph" />
   </a>
 </p>
 
