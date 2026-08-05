@@ -66,24 +66,15 @@
 
 ## 📊 Stats & Activity
 
-<!-- Streak Stats — custom purple theme matching profile accent color -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yiyabo&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=8B949E" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=yiyabo" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats + Top Languages — uncomment when github-readme-stats recovers
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
--->
 
 ---
 
