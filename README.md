@@ -64,13 +64,33 @@
 
 ---
 
-## GitHub Stats
+## 📊 Stats & Activity
 
-<div align="center">
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=yiyabo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=yiyabo&theme=tokyonight&hide_border=true" />
+<!-- Stats + Top Languages — uncomment when github-readme-stats is back up
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
+  </a>
+</p>
+-->
 
-</div>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yiyabo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+</p>
 
 ---
 
