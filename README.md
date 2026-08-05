@@ -29,17 +29,6 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/yiyabo/GAgent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyabo&repo=GAgent&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yiyabo/zotero-reading-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyabo&repo=zotero-reading-assistant&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[GAgent](https://github.com/yiyabo/GAgent)** | AI-driven intelligent task orchestration system | Python |
@@ -79,12 +68,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yiyabo&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=yiyabo&theme=tokyonight&hide_border=true" />
 
 </div>
 
