@@ -66,31 +66,24 @@
 
 ## 📊 Stats & Activity
 
-<!-- Streak Stats -->
+<!-- Streak Stats — custom purple theme matching profile accent color -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yiyabo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=yiyabo&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=8B949E" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Stats + Top Languages — uncomment when github-readme-stats is back up
+<!-- GitHub Stats + Top Languages — uncomment when github-readme-stats recovers
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyabo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyabo&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" />
   </a>
 </p>
 -->
-
-<!-- GitHub Contribution Graph (official, always works) -->
-<p align="center">
-  <a href="https://github.com/yiyabo">
-    <img src="https://ghchart.rshah.org/7C3AED/yiyabo" alt="Contribution Graph" />
-  </a>
-</p>
 
 ---
 
